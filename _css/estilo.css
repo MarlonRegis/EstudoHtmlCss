@@ -2,12 +2,14 @@
 
 body {
     margin: 10px;
-    background-color: #727c77;
+    background-color: #dddddd;
+    color: rgba(0,0,0,1);
 }
 
 div#interface{
-    width: 800px;
-    
+    width: 400px;
+    background-color: #dddddd;
+    margin: 10px, auto, 10px, auto;
 }
 /* o p representa todos os textos presentes no html*/
 
